@@ -23,8 +23,8 @@ Clausures availables
 * LIMIT
 
 Design patterns adopteds   
-Factory  
-VO (Value Object)  
+* Factory  
+* VO (Value Object)  
 
 Author
 
