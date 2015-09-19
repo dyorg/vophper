@@ -25,7 +25,7 @@ Design patterns adopteds
 * Factory  
 * VO (Value Object)  
 
-## Author
+### Author
 
 Created by Dyorg Almeida, a full-stack web developer and PHP expert. 
 Today Dyorg ia the founder and CTO of Rabbiit, a brazilian startup that develops a simple productivity management and time tracking software.  
