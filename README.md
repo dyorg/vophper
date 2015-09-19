@@ -10,17 +10,17 @@ The Vophper core is the ADOdb5, a database abstraction library.
 http://adodb.sourceforge.net/
 
 Operations availables
-*SELECT
-*INSERT 
-*UPDATE
-*DELETE
+* SELECT
+* INSERT 
+* UPDATE
+* DELETE
 
 Clausures availables
-*JOIN
-*WHERE
-*GROUP BY
-*ORDER BY
-*LIMIT
+* JOIN
+* WHERE
+* GROUP BY
+* ORDER BY
+* LIMIT
 
 Design patterns adopteds   
 Factory  
