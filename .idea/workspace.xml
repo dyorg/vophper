@@ -2,236 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c165426-9843-490e-97a6-0b8285379d60" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/CustomerDao.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/CustomerVo.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Vophper.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/connection.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/example/index.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Clauses\GroupBy.php" afterPath="$PROJECT_DIR$/src/Clauses/GroupBy.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Clauses\Handler.php" afterPath="$PROJECT_DIR$/src/Clauses/Handler.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Clauses\Join.php" afterPath="$PROJECT_DIR$/src/Clauses/Join.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Clauses\Limit.php" afterPath="$PROJECT_DIR$/src/Clauses/Limit.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Clauses\OrderBy.php" afterPath="$PROJECT_DIR$/src/Clauses/OrderBy.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Clauses\Where.php" afterPath="$PROJECT_DIR$/src/Clauses/Where.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Connection.php" afterPath="$PROJECT_DIR$/src/Connection.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Dao\Abstract.php" afterPath="$PROJECT_DIR$/src/Dao/Abstract.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Format\Date.php" afterPath="$PROJECT_DIR$/src/Format/Date.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Manipulation\Abstract.php" afterPath="$PROJECT_DIR$/src/Manipulation/Abstract.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Manipulation\Clauses\Abstract.php" afterPath="$PROJECT_DIR$/src/Manipulation/Clauses/Abstract.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Manipulation\Clauses\Params.php" afterPath="$PROJECT_DIR$/src/Manipulation/Clauses/Params.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Manipulation\Delete.php" afterPath="$PROJECT_DIR$/src/Manipulation/Delete.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Manipulation\Insert.php" afterPath="$PROJECT_DIR$/src/Manipulation/Insert.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Manipulation\Instance.php" afterPath="$PROJECT_DIR$/src/Manipulation/Instance.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Manipulation\Select.php" afterPath="$PROJECT_DIR$/src/Manipulation/Select.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Manipulation\Update.php" afterPath="$PROJECT_DIR$/src/Manipulation/Update.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\Mapper\Abstract.php" afterPath="$PROJECT_DIR$/src/Mapper/Abstract.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-active-record.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-active-record.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-active-recordx.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-active-recordx.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-csvlib.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-csvlib.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-datadict.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-datadict.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-error.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-error.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-errorhandler.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-errorhandler.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-errorpear.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-errorpear.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-exceptions.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-exceptions.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-iterator.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-iterator.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-lib.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-lib.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-memcache.lib.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-memcache.lib.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-pager.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-pager.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-pear.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-pear.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-perf.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-perf.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-php4.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-php4.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-time.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-time.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-xmlschema.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-xmlschema.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb-xmlschema03.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb-xmlschema03.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\adodb.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/adodb.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\contrib\toxmlrpc.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/contrib/toxmlrpc.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\cute_icons_for_site\adodb.gif" afterPath="$PROJECT_DIR$/src/required/adodb5/cute_icons_for_site/adodb.gif" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\cute_icons_for_site\adodb2.gif" afterPath="$PROJECT_DIR$/src/required/adodb5/cute_icons_for_site/adodb2.gif" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-access.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-access.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-db2.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-db2.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-firebird.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-firebird.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-generic.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-generic.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-ibase.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-ibase.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-informix.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-informix.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-mssql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-mssql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-mssqlnative.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-mssqlnative.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-mysql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-mysql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-oci8.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-oci8.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-postgres.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-postgres.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-sapdb.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-sapdb.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-sqlite.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-sqlite.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\datadict\datadict-sybase.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/datadict/datadict-sybase.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\docs-active-record.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/docs-active-record.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\docs-adodb.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/docs-adodb.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\docs-datadict.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/docs-datadict.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\docs-oracle.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/docs-oracle.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\docs-perf.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/docs-perf.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\docs-session.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/docs-session.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\docs-session.old.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/docs-session.old.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\old-changelog.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/old-changelog.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\readme.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/readme.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\tips_portable_sql.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/tips_portable_sql.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\docs\tute.htm" afterPath="$PROJECT_DIR$/src/required/adodb5/docs/tute.htm" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-access.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-access.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-ado.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-ado.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-ado5.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-ado5.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-ado_access.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-ado_access.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-ado_mssql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-ado_mssql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-ads.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-ads.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-borland_ibase.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-borland_ibase.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-csv.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-csv.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-db2.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-db2.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-db2oci.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-db2oci.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-db2ora.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-db2ora.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-fbsql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-fbsql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-firebird.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-firebird.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-ibase.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-ibase.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-informix.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-informix.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-informix72.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-informix72.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-ldap.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-ldap.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-mssql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-mssql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-mssql_n.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-mssql_n.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-mssqlnative.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-mssqlnative.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-mssqlpo.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-mssqlpo.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-mysql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-mysql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-mysqli.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-mysqli.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-mysqlpo.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-mysqlpo.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-mysqlt.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-mysqlt.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-netezza.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-netezza.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-oci8.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-oci8.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-oci805.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-oci805.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-oci8po.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-oci8po.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-odbc.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-odbc.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-odbc_db2.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-odbc_db2.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-odbc_mssql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-odbc_mssql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-odbc_oracle.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-odbc_oracle.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-odbtp.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-odbtp.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-odbtp_unicode.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-odbtp_unicode.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-oracle.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-oracle.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-pdo.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-pdo.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-pdo_mssql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-pdo_mssql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-pdo_mysql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-pdo_mysql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-pdo_oci.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-pdo_oci.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-pdo_pgsql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-pdo_pgsql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-pdo_sqlite.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-pdo_sqlite.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-postgres.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-postgres.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-postgres64.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-postgres64.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-postgres7.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-postgres7.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-postgres8.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-postgres8.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-proxy.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-proxy.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-sapdb.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-sapdb.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-sqlanywhere.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-sqlanywhere.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-sqlite.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-sqlite.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-sqlite3.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-sqlite3.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-sqlitepo.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-sqlitepo.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-sybase.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-sybase.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-sybase_ase.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-sybase_ase.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\drivers\adodb-vfp.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/drivers/adodb-vfp.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-ar.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-ar.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-bg.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-bg.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-bgutf8.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-bgutf8.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-ca.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-ca.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-cn.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-cn.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-cz.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-cz.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-da.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-da.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-de.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-de.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-en.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-en.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-es.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-es.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-esperanto.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-esperanto.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-fa.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-fa.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-fr.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-fr.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-hu.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-hu.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-it.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-it.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-nl.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-nl.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-pl.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-pl.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-pt-br.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-pt-br.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-ro.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-ro.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-ru1251.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-ru1251.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-sv.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-sv.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb-uk1251.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb-uk1251.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\lang\adodb_th.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/lang/adodb_th.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\license.txt" afterPath="$PROJECT_DIR$/src/required/adodb5/license.txt" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\pear\Auth\Container\ADOdb.php" afterPath="$PROJECT_DIR$/src/required/adodb5/pear/Auth/Container/ADOdb.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\pear\readme.Auth.txt" afterPath="$PROJECT_DIR$/src/required/adodb5/pear/readme.Auth.txt" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\perf\perf-db2.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/perf/perf-db2.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\perf\perf-informix.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/perf/perf-informix.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\perf\perf-mssql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/perf/perf-mssql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\perf\perf-mssqlnative.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/perf/perf-mssqlnative.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\perf\perf-mysql.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/perf/perf-mysql.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\perf\perf-oci8.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/perf/perf-oci8.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\perf\perf-postgres.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/perf/perf-postgres.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\pivottable.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/pivottable.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\readme.txt" afterPath="$PROJECT_DIR$/src/required/adodb5/readme.txt" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\rsfilter.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/rsfilter.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\server.php" afterPath="$PROJECT_DIR$/src/required/adodb5/server.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-compress-bzip2.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-compress-bzip2.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-compress-gzip.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-compress-gzip.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-cryptsession.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-cryptsession.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-cryptsession2.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-cryptsession2.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-encrypt-mcrypt.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-encrypt-mcrypt.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-encrypt-md5.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-encrypt-md5.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-encrypt-secret.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-encrypt-secret.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-encrypt-sha1.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-encrypt-sha1.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-sess.txt" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-sess.txt" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-session-clob.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-session-clob.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-session-clob2.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-session-clob2.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-session.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-session.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-session2.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-session2.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-sessions.mysql.sql" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-sessions.mysql.sql" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-sessions.oracle.clob.sql" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-sessions.oracle.clob.sql" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\adodb-sessions.oracle.sql" afterPath="$PROJECT_DIR$/src/required/adodb5/session/adodb-sessions.oracle.sql" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\crypt.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/crypt.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\old\adodb-cryptsession.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/old/adodb-cryptsession.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\old\adodb-session-clob.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/old/adodb-session-clob.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\old\adodb-session.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/old/adodb-session.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\old\crypt.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/session/old/crypt.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\session_schema.xml" afterPath="$PROJECT_DIR$/src/required/adodb5/session/session_schema.xml" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\session\session_schema2.xml" afterPath="$PROJECT_DIR$/src/required/adodb5/session/session_schema2.xml" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\benchmark.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/benchmark.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\client.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/client.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\pdo.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/pdo.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test-active-record.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test-active-record.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test-active-recs2.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test-active-recs2.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test-active-relations.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test-active-relations.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test-active-relationsx.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test-active-relationsx.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test-datadict.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test-datadict.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test-perf.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test-perf.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test-pgblob.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test-pgblob.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test-php5.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test-php5.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test-xmlschema.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test-xmlschema.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test2.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test2.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test3.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test3.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test4.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test4.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test5.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test5.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\test_rs_array.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/test_rs_array.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\testcache.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/testcache.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\testdatabases.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/testdatabases.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\testgenid.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/testgenid.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\testmssql.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/testmssql.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\testoci8.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/testoci8.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\testoci8cursor.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/testoci8cursor.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\testpaging.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/testpaging.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\testpear.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/testpear.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\testsessions.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/testsessions.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\time.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/time.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\tmssql.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/tmssql.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\xmlschema-mssql.xml" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/xmlschema-mssql.xml" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tests\xmlschema.xml" afterPath="$PROJECT_DIR$/src/required/adodb5/tests/xmlschema.xml" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\toexport.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/toexport.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\tohtml.inc.php" afterPath="$PROJECT_DIR$/src/required/adodb5/tohtml.inc.php" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\xmlschema.dtd" afterPath="$PROJECT_DIR$/src/required/adodb5/xmlschema.dtd" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\xmlschema03.dtd" afterPath="$PROJECT_DIR$/src/required/adodb5/xmlschema03.dtd" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\xsl\convert-0.1-0.2.xsl" afterPath="$PROJECT_DIR$/src/required/adodb5/xsl/convert-0.1-0.2.xsl" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\xsl\convert-0.1-0.3.xsl" afterPath="$PROJECT_DIR$/src/required/adodb5/xsl/convert-0.1-0.3.xsl" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\xsl\convert-0.2-0.1.xsl" afterPath="$PROJECT_DIR$/src/required/adodb5/xsl/convert-0.2-0.1.xsl" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\xsl\convert-0.2-0.3.xsl" afterPath="$PROJECT_DIR$/src/required/adodb5/xsl/convert-0.2-0.3.xsl" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\xsl\remove-0.2.xsl" afterPath="$PROJECT_DIR$/src/required/adodb5/xsl/remove-0.2.xsl" />
-      <change type="MOVED" beforePath="C:\Apache24\htdocs\Vophper\required\adodb5\xsl\remove-0.3.xsl" afterPath="$PROJECT_DIR$/src/required/adodb5/xsl/remove-0.3.xsl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Vophper.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -256,16 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Customer.php" pinned="false" current-in-tab="false">
-        <entry file="file://C:/httpd/htdocs/sea/Application/Modules/Default/Models/Customer/Customer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.103448" vertical-offset="0" max-vertical-offset="5980">
-              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CustomerVo.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/CustomerVo.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -296,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/example/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3935185" vertical-offset="0" max-vertical-offset="864">
+            <state vertical-scroll-proportion="-11.724138" vertical-offset="0" max-vertical-offset="460">
               <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="893">
+              <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -372,6 +144,7 @@
         <option value="$PROJECT_DIR$/example/CustomerDao.php" />
         <option value="$PROJECT_DIR$/example/Customer.php" />
         <option value="$PROJECT_DIR$/example/index.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -770,8 +543,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/example/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3935185" vertical-offset="0" max-vertical-offset="864">
+        <state vertical-scroll-proportion="-11.724138" vertical-offset="0" max-vertical-offset="460">
           <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="893">
+          <caret line="0" column="2" selection-start-line="0" selection-start-column="2" selection-end-line="0" selection-end-column="2" />
           <folding />
         </state>
       </provider>
