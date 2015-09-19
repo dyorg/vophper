@@ -22,8 +22,8 @@ Clausures availables
 * LIMIT
 
 Design patterns adopteds   
-* Factory  
-* VO (Value Object)  
+* [Factory](https://en.wikipedia.org/wiki/Factory_(object-oriented_programming))
+* [VO (Value Object)](https://en.wikipedia.org/wiki/Value_object)
 
 ### Author
 
