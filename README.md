@@ -26,10 +26,9 @@ Design patterns adopteds
 
 ### Author
 
-Created by Dyorg Almeida, a full-stack web developer and PHP expert ([Zend Certified Engineer]( http://www.zend.com/en/yellow-pages/ZEND020495)). 
+Created by [Dyorg Almeida](http://linkedin.com/in/dyorgalmeida), a full-stack web developer and PHP expert ([Zend Certified Engineer](http://www.zend.com/en/yellow-pages/ZEND020495)). 
 Today Dyorg is founder and CTO at [Rabbiit](http://rabbiit.com), a brazilian startup that develops a simple time tracking software.  
 
 http://rabbiit.com - Sign up for free  (available only in portuguese for now)
-
 
 
