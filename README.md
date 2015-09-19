@@ -1,6 +1,6 @@
 # Vophper
 
-Vophper is a ORM framework PHP 4.x created in 2010 just to study about database abstraction and object-oriented programming. The objective was make easier interations with database, through mapped database objects using Value Object pattern, so avoid write scrips SQL and SQL injections.
+Vophper is a ORM framework PHP 4.x created in 2010 only as a case study about database abstraction and object-oriented programming. The goal was to make  easier interations with database, through mapped database objects using Value Object pattern, so avoiding repetitive writing scrips SQL and SQL injections.
 
 **Vophper** is a acronym of **V**alue **O**bject **PHP** P**er**sistence Library.   
 
@@ -26,7 +26,7 @@ Design patterns adopteds
 
 ### Author
 
-Created by Dyorg Almeida, a full-stack web developer and PHP expert. 
+Created by Dyorg Almeida, a full-stack web developer and PHP expert ([Zend Certified Engineer]( http://www.zend.com/en/yellow-pages/ZEND020495)). 
 Today Dyorg is founder and CTO at Rabbiit, a brazilian startup that develops a simple time tracking software.  
 
 http://rabbiit.com - Sign up for free  (available only in portuguese for now)
