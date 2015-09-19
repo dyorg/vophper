@@ -13,6 +13,6 @@ $customerList = $dao->FetchSearch();
  */
 $customerVo = new CustomerVO();
 $customerVo->name = 'John';
-
 $customerDao = new CustomerDao();
-$customerDao->save($customerVo); // saved
+$customerDao->save($customerVo); // customer saved
+

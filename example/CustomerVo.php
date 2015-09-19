@@ -45,3 +45,4 @@ class Customer extends Vophper_Mapper_Abstract
 		return $this->cus_active;
 	}
 }
+

@@ -33,3 +33,4 @@ class CustomerDao extends Vophper_Dao_Abstract
 		return parent::Update($vo);
 	}
 }
+
