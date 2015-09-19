@@ -1,10 +1,9 @@
 # Vophper
 
 Vophper is a ORM framework PHP 4.x created in 2010 just to study.   
+The objective was make easier interations with database, through mapped database objects using Value Object pattern, so avoid write scrips SQL and SQL injections.
 
 **Vophper** is a acronym of **V**alue **O**bject **PHP** P**er**sistence Library.   
-
-The objective was make easier interations with database, through mapped database objects using Value Object pattern, so avoid write scrips SQL and SQL injections.
 
 The Vophper core is the ADOdb5, a database abstraction library.  
 http://adodb.sourceforge.net/
