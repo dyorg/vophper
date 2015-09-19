@@ -1,34 +1,37 @@
 # Vophper
 
-Vophper é uma ORM para PHP criado em meados de 2010 apenas como estudo de caso. Recomendo o uso somente para estudo.
+Vophper is a ORM framework PHP 4.x created in 2010 just to study.   
 
-O objetivo é facilitar as interações com o banco de dados, através da criação de classes de mapeamento do banco de dados, e permitir a manipulação de dados utilizando somente objetos, evitando a escrita de scripts SQL e ataques de injeção de SQL.
+Vophper is a acronym of **V**alue **O**bject **PHP** P**er**sistence Library.   
 
-Vophper é um acrônimo para *V*alue *O*bject *PHP* P*er*sistence Library.
+The objective was make easier interations with database, through mapped database objects using Value Object pattern, so avoid write scrips SQL and SQL injections.
 
-O núcleo de Vophper é o ADOdb5, uma biblioteca de abstração de banco de dados.
+
+The Vophper core is the ADOdb5, a database abstraction library.
 http://adodb.sourceforge.net/
 
-Operações disponíveis
+Operations availables
 SELECT
 INSERT 
 UPDATE
 DELETE
 
-Cláusulas disponíveis
+Clausures availables
 JOIN
 WHERE
 GROUP BY
 ORDER BY
 LIMIT
 
-Padrões adotados
-Factory
-VO (Value Object)
+Design patterns adopteds   
+Factory  
+VO (Value Object)  
 
 Author
 
-Criado em 2010 por Dyorg Almeida, a full-stack web developer expert and entrepreneur. 
-Dyorg is founder and CTO of Rabbiit, a brazilian startup that develops a simple productivity management and time tracking software.
+Created by Dyorg Almeida, a full-stack web developer and PHP expert. 
+Today Dyorg ia the founder and CTO of Rabbiit, a brazilian startup that develops a simple productivity management and time tracking software.  
+http://rabbiit.com - Sign up free  (available only in portuguese for now)
+
 
 
