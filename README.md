@@ -29,7 +29,7 @@ Design patterns adopteds
 Created by Dyorg Almeida, a full-stack web developer and PHP expert. 
 Today Dyorg is founder and CTO at Rabbiit, a brazilian startup that develops a simple time tracking software.  
 
-http://rabbiit.com - Sign up free  (available only in portuguese for now)
+http://rabbiit.com - Sign up for free  (available only in portuguese for now)
 
 
 
